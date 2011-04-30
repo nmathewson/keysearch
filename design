@@ -1,0 +1,13 @@
+
+There is a big list of primes.
+
+There is an operation that generates a bunch of primes, then adds them to the
+list.
+
+There is an operation that tries multiplying two primes and checks it
+against a target.
+
+There is an operation that tries making keys with p,q for all p in one
+range with all q in another range, comparing the hashed DER of each
+result.
+
